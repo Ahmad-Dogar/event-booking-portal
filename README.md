@@ -1,0 +1,3 @@
+# event-booking-portal
+
+The event booking portal is a web-based application built in PHP that offers a seamless solution for booking wedding events or other special occasions. The system allows for up to four bookings per day, with two in the morning and two in the evening, ensuring that events are scheduled efficiently and avoiding overbooking. The platform also features a user login management system for easy access to booking information. The interface is designed to simplify the booking process for both clients and administrators. Whether you're planning a wedding or another special event, the event booking portal website provides a smooth and stress-free experience.
